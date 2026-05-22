@@ -13,10 +13,10 @@
 
 它负责把原始内容处理成：
 
-- 能说出口的 `script.md`
 - 写稿前确认方向的 `content-brief.md`
-- 经过事实和素材审核的 `content-review.md`
+- 能说出口的 `script.md`
 - 清晰的 beat / scene 规划 `outline.md`
+- 经过事实和素材审核的 `content-review.md`
 - HyperFrames agent 能直接接手的 `hyperframes-handoff.md`
 
 HyperFrames 接手后，再负责视觉身份、HTML composition、GSAP 动画、预览、
@@ -50,8 +50,8 @@ my-video-plan/
 ├── article.md
 ├── content-brief.md
 ├── script.md
-├── content-review.md
 ├── outline.md
+├── content-review.md
 └── hyperframes-handoff.md
 ```
 

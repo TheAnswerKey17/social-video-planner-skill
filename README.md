@@ -13,10 +13,10 @@ HyperFrames handoff. It no longer builds web presentations, records screens, or 
 
 It produces:
 
-- `script.md` — narration copy split into speakable beats
 - `content-brief.md` — pre-script understanding, angle selection, and direction confirmation
-- `content-review.md` — fidelity, claim, source, material, and blocker review
+- `script.md` — narration copy split into speakable beats
 - `outline.md` — beat / scene planning
+- `content-review.md` — fidelity, claim, source, material, and blocker review
 - `hyperframes-handoff.md` — the single handoff document for a HyperFrames agent
 
 HyperFrames remains responsible for visual identity, HTML composition, GSAP animation,
@@ -50,8 +50,8 @@ my-video-plan/
 ├── article.md
 ├── content-brief.md
 ├── script.md
-├── content-review.md
 ├── outline.md
+├── content-review.md
 └── hyperframes-handoff.md
 ```
 
