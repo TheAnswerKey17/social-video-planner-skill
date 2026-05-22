@@ -1,0 +1,15 @@
+{
+  "name": "social-video-planner",
+  "version": "2.0.0",
+  "category": "Social Video Planning / HyperFrames",
+  "description": "Turn articles, video links, transcripts, scripts, lessons, product demos, and talks into a social-media video planning package with content brief, narration script, content review, video outline, and HyperFrames handoff. Does not generate React/Vite pages, design systems, recordings, or rendered video.",
+  "homepage": "",
+  "compat": [
+    "claude-code",
+    "claude-ai",
+    "cursor",
+    "codex-cli",
+    "gemini-cli",
+    "opencode"
+  ]
+}
